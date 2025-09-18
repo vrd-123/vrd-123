@@ -13,6 +13,9 @@
 <!-- - 😄 Pronouns: ...
 <!-- - ⚡ Fun fact: ... -->
 
+![Profile Views](https://komarev.com/ghpvc/?username=vrd-123&label=Profile%20Views&color=0e75b6&style=flat)
+
+
 ### Languages and Tools:
 <p align="left">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -48,3 +51,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter notebook" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> -->
 </p>
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrd-123&show_icons=true&theme=radical) -->
