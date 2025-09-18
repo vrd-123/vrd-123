@@ -1,4 +1,4 @@
-## Hi 👋, I am Varad Naik
+##           Hi 👋, I am Varad Naik
 
 ### A passionate developer.
 
